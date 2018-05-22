@@ -22,11 +22,11 @@
 	{
 		"date":"May 22, 2018",
 		"sehri" : "3:49 AM",
-		"iftar" : "6:50 PM"
+		"iftar" : "6:54 PM"
 	},
 	{
 		"date":"May 23, 2018",
-		"sehri" : "3:49 AM",
-		"iftar" : "6:50 PM"
+		"sehri" : "3:50 AM",
+		"iftar" : "6:51 PM"
 	}
 ]
