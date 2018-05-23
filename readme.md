@@ -1,32 +1,32 @@
 [
 	{
 		"date":"May 18, 2018",
-		"sehri" : "3:44 AM",
-		"iftar" : "6:45 PM"
+		"sehri" : "৩:৪৫",
+		"iftar" : "৬:৪৫"
 	},
 	{
 		"date":"May 19, 2018",
-		"sehri" : "3:45 AM",
-		"iftar" : "6:46 PM"
+		"sehri" : "৩:৪৬",
+		"iftar" : "৬:৪৬"
 	},
 	{
 		"date":"May 20, 2018",
-		"sehri" : "3:47 AM",
-		"iftar" : "6:48 PM"
+		"sehri" : "৩:৪৭",
+		"iftar" : "৬:৪৭"
 	},
 	{
 		"date":"May 21, 2018",
-		"sehri" : "3:49 AM",
-		"iftar" : "6:50 PM"
+		"sehri" : "৩:৪৮",
+		"iftar" : "৬:৪৮"
 	},
 	{
 		"date":"May 22, 2018",
-		"sehri" : "3:55 AM",
-		"iftar" : "6:56 PM"
+		"sehri" : "৩:৪৯",
+		"iftar" : "৬:৪৯"
 	},
 	{
 		"date":"May 23, 2018",
-		"sehri" : "3:50 AM",
-		"iftar" : "6:51 PM"
+		"sehri" : "৩:৫০",
+		"iftar" : "৬:৫০"
 	}
 ]
